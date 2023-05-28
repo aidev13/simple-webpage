@@ -1,6 +1,44 @@
 *{
-    background-color: aqua;
-    color:black;
-    
+    font-family: 'Courier New', Courier, monospace;
 }
+
+header, footer{
+    text-align: center;
+    background-color: rgb(168, 168, 168);
+    color:white;
+}
+
+main,footer{
+ padding:0 25px;
+}
+
+body{
+    background-color:antiquewhite;
+    margin: 0;
+    padding: 0px;
+    color: navy;
+    text-align: center;
+}
+
+h1{
+    margin: 0;
+    padding: 20px;
+}
+h3{
+    font-style: italic;
+}
+
+.highlight{
+    color:white;
+    background-color: #e44d26;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+ }
+
+ footer{
+    padding: 15px;
+ }
 
