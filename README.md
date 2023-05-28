@@ -93,5 +93,5 @@ Use [Google](https://www.google.com) or another search engine to research this.
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved. Version 0.02
 
 ## Updated Version Dates
-0.01 - 5/26/23
-0.02 - 5/28/23
+* 0.01 - 5/26/23
+* 0.02 - 5/28/23
