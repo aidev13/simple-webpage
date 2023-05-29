@@ -19,7 +19,7 @@ header{
 
 }
 
-.navBar{
+#navBar{
     text-align: right;
     padding: 20px
 }
@@ -71,13 +71,6 @@ img{
     border: 5px #e44d26 solid;
  }
 
- 
-footer{
-    text-align: center;
-    background-color: rgb(168, 168, 168);
-    line-height: 60px;
-    color:white;
-}
 
 #small-text{
     font-size: 10px;
@@ -87,18 +80,17 @@ footer{
 
 
 form {
-    /* Center the form on the page */
     margin: 0 auto;
     width: 300px;
     padding:  0;
   }
 
-  .form-li{
+.form-li{
     display:block;
     font-size: 14px;
   }
 
-  #form-left{
+#form-left{
     display: inline;
   }
 
@@ -130,14 +122,20 @@ button{
 }
 /* style for form end */
 
+
+
 /* class selectors */
 .highlight{
     color:white;
     background-color: #e44d26;
 }
 
-
-/*ID Selectors */
+footer{
+    text-align: center;
+    background-color: rgb(168, 168, 168);
+    line-height: 60px;
+    color:white;
+}
 
 
 
