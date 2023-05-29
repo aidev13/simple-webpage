@@ -52,6 +52,7 @@ figcaption{
 
  p{
     padding: 10px;
+    margin: 0 50px;
  }
 
 #padding, h2{
@@ -78,6 +79,10 @@ footer{
     color:white;
 }
 
+#small-text{
+    font-size: 10px;
+    font-style: italic;
+}
 /* Style for form */
 
 
