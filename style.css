@@ -28,11 +28,9 @@ main{
     padding: 60px 0 10px 0;
 }
 
-li{
+.header-li{
     display: inline;
-
 }
-
 h1, h2{
     color: #e44d26;
     margin: 20px;
@@ -47,10 +45,11 @@ background-color: rgb(168, 168, 168);
 
 figcaption{
     font-style: italic;
-    font-size: 20px;
+    font-size: 16px;
     font-weight: bold;
     margin:5px;
 }
+
  p{
     padding: 10px;
  }
@@ -78,10 +77,59 @@ footer{
     color:white;
 }
 
+/* Style for form */
+
+
+form {
+    /* Center the form on the page */
+    margin: 0 auto;
+    width: 300px;
+    padding:  0;
+  }
+
+  .form-li{
+    display:block;
+    font-size: 14px;
+  }
+
+  #form-left{
+    display: inline;
+  }
+
+section{
+    background-color: aliceblue;
+    border: 5px navy solid;
+    border-radius: 20px;
+    margin:5px 100px;
+    padding: 5px;
+}
+
+label{
+    display: inline-block;
+
+}
+
+input{
+  box-sizing: border-box;
+  width: 300px;
+  border: 2px solid #4F4846;}
+
+button{
+    margin: 10px;
+    padding: 5px 25px;
+    border-radius: 15px;
+    background-color: white;
+}
+/* style for form end */
+
 /* class selectors */
 .highlight{
     color:white;
     background-color: #e44d26;
 }
+
+
+/*ID Selectors */
+
 
 
